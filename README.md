@@ -2,7 +2,7 @@
 
 Python, APIs and data automation. I take on scoped bug fixes, backend work and scripts that replace repetitive spreadsheet tasks.
 
-[Portfolio](https://kanishq.dev) · [Discuss a reconciliation project](https://www.freelancer.com/service/python/excel-and-csv-reconciliation-with-python)
+[Portfolio](https://kanishq.dev) · [LinkedIn](https://www.linkedin.com/in/kanishq08) · [Discuss a reconciliation project](https://www.freelancer.com/service/python/excel-and-csv-reconciliation-with-python)
 
 [Inventory CSV reconciliation on Kwork](https://kwork.com/scripting/55039214/i-will-reconcile-two-inventory-csvs-with-a-python-script-and-audit): $100 for two CSVs up to 25,000 rows each, a reusable Python script, tests and an audit report. Three-day delivery after complete requirements; exact matching rules and scope are listed on the service page. Please confirm fit through Kwork before ordering.
 
@@ -27,8 +27,5 @@ We agree on the input, expected output, acceptance checks and price before imple
 - [argparse #437](https://github.com/p-ranav/argparse/pull/437): preserve parent unknown arguments across subcommands.
 - [tabulate #139](https://github.com/p-ranav/tabulate/pull/139): preserve table borders for empty rows, with exact-output regression tests.
 
-## Submitted for review
-
 - [csv2 #53](https://github.com/p-ranav/csv2/pull/53): quote and escape CSV fields, with writer regression tests.
 
-The CSV writer pull request is open as of October 4, 2026; maintainer acceptance is pending.
