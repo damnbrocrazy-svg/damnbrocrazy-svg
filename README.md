@@ -29,3 +29,5 @@ We agree on the input, expected output, acceptance checks and price before imple
 
 - [csv2 #53](https://github.com/p-ranav/csv2/pull/53): quote and escape CSV fields, with writer regression tests.
 
+
+- [csv2 #54](https://github.com/p-ranav/csv2/pull/54): fix row iterator equality and symmetric position comparisons, with regression tests.
