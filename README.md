@@ -31,3 +31,5 @@ We agree on the input, expected output, acceptance checks and price before imple
 
 
 - [csv2 #54](https://github.com/p-ranav/csv2/pull/54): fix row iterator equality and symmetric position comparisons, with regression tests.
+- [Brainrot #394](https://github.com/Brainrotlang/brainrot/pull/394): preserve 64-bit integer values in float and double conversions.
+- [glob #38](https://github.com/p-ranav/glob/pull/38): include current-directory matches in bare recursive globs.
